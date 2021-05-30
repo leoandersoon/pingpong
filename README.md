@@ -6,5 +6,7 @@ Coding a Ping-Pong game by using Python
 If you want you can learn about everything in this YouTube video (it's not mine); 
 https://www.youtube.com/watch?v=oBqhGuE3tFA
 
+If you have problems that you didn't solve them, you can contact with me on Instagram; www.instagram.com/leoandersoon
+
 Sincerely,
 Leo Anderson
