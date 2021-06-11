@@ -64,8 +64,8 @@ def racket_b_down():
 window.listen()
 window.onkeypress(racket_a_up,'w')
 window.onkeypress(racket_a_down,'s')
-window.onkeypress(racket_b_up,'Up')
-window.onkeypress(racket_b_down,'Down')
+window.onkeypress(racket_b_up,'u')
+window.onkeypress(racket_b_down,'j')
 
 
 
